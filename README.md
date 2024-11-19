@@ -37,3 +37,15 @@ pip install pygame
 - Aim carefully by dragging the mouse to set your shot direction.
 - Use controlled power to avoid overshooting or falling short.
 - Plan your shots to navigate around obstacles and tricky terrains.
+
+## 📜 License
+
+This repository is for educational purposes only and has an MIT License
+
+### Show your support
+
+Give a ⭐ if you like these projects!
+
+# Contributors
+
+- [Vadym Makohon](https://github.com/VadymMakohon)
