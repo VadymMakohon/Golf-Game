@@ -2,6 +2,8 @@
 
 Welcome to the 2D Golf Game, a fun and challenging 9-hole golf game created using Pygame! Aim, swing, and putt your way to victory while navigating through different levels of obstacles and terrain.
 
+## Preview ![preview](https://github.com/user-attachments/assets/284cf037-a205-45a0-90d9-503fbd812fe1)
+
 ## 🏌️ Features
 
 Nine Challenging Holes: Test your skills across a variety of terrains and obstacles.
